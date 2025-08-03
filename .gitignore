@@ -1,4 +1,6 @@
 **/.DS_Store
 
-./Lab4_NN-and-CNN/checkpoints/
-./Lab4_NN-and-CNN/runs/
+**/runs
+**/checkpoints
+**/thai-handwriting-number.appspot.com
+.venv
